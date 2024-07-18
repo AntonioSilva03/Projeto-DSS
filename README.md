@@ -28,8 +28,8 @@ O sistema permite:
 
 # Execução do sistema
 Cuidados especiais a ter na execução do sistema:
-- É necessário inicializar e povoar a base de dados (todo o material necessário encontra-se [aqui]())
-- As credenciais de acesso à base de dados devem ser alterados [aqui]() (campos ```USERNAME``` e ```PASSWORD```)
+- É necessário inicializar e povoar a base de dados (todo o material necessário encontra-se [aqui](https://github.com/AntonioSilva03/Projeto-DSS/tree/main/src/SQL))
+- As credenciais de acesso à base de dados devem ser alterados [aqui](https://github.com/AntonioSilva03/Projeto-DSS/blob/main/src/esideal/data/ConfigDAO.java) (campos ```USERNAME``` e ```PASSWORD```)
 
 # Conclusão
 Trabalho realizado por Pedro Silva, António Silva, Diogo Barros e Duarte Leitão.
